@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'TTHoves';
+    src: url('./font/TTHoves-Regular.ttf') format('truetype'),
+          url('./font/TTHoves-ExtraBold.ttf') format('truetype'); /* Замените 'your-font-file.ttf' на имя файла вашего шрифта */
+    /* Дополнительные форматы шрифта (например, woff или woff2) можно добавить здесь, если они есть */
+    /* Пример:
+    src: url('./fonts/your-font-file.woff') format('woff'),
+         url('./fonts/your-font-file.woff2') format('woff2'),
+         url('./fonts/your-font-file.ttf') format('truetype');
+    */
+  }
